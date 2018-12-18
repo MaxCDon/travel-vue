@@ -1,0 +1,145 @@
+{
+  "ret": true,
+  "data": {
+    "city": "杭州",
+    "swiperList": [
+      {
+        "id": "0001",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1811/a8/cb43c4ac6c215d02.jpg_750x200_83dee994.jpg"
+      },
+      {
+        "id": "0002",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1609/4d/3dc09bcc290f0c02.jpg_750x200_09c97d67.jpg"
+      },
+      {
+        "id": "0003",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1712/51/36632b2cb850e902.jpg_750x200_fa4120db.jpg"
+      },
+      {
+        "id": "0004",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1812/47/a51fe403715df102.jpg_750x200_085792b6.jpg"
+      }
+    ],
+    "iconList": [
+      {
+        "id": "0001",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+        "desc": "热门景点"
+      },
+      {
+        "id": "0002",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/5a/13ceb38dcf262f02.png",
+        "desc": "一日游"
+      },
+      {
+        "id": "0003",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/ff/fdf170ee89594b02.png",
+        "desc": "杭州必游"
+      },
+      {
+        "id": "0004",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/76/eb88861d78fb9902.png",
+        "desc": "动植园"
+      },
+      {
+        "id": "0005",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1811/f6/e54fad3ea337b02.gif",
+        "desc": "立减30"
+      },
+      {
+        "id": "0006",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/17/99402a22ce4af302.png",
+        "desc": "西湖"
+      },
+      {
+        "id": "0007",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/ab/6f7d6e44963c9302.png",
+        "desc": "泡温泉"
+      },
+      {
+        "id": "0008",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/b8/c5dcdb58deec2402.png",
+        "desc": "西溪湿地"
+      },
+      {
+        "id": "0009",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/75/eca3ce656c886502.png",
+        "desc": "千岛湖"
+      }
+    ],
+    "recommendList": [
+      {
+        "id": "0001",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_140x140_80f63803.jpg",
+        "desc": "东方宫殿建筑代表，世界宫殿建筑典范",
+        "comment": "37",
+        "price": 100,
+        "title": "故宫"
+      },
+      {
+        "id": "0002",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1511/d2/d2aec2dfc5aa771290.water.jpg_140x140_abb362a7.jpg",
+        "desc": "北京专业级滑雪圣地",
+        "comment": "37",
+        "price": 100,
+        "title": "南山滑雪场"
+      },
+      {
+        "id": "0003",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1501/f4/f467729126949c3a.water.jpg_140x140_ef235b1c.jpg",
+        "desc": "我爱北京天安门，天安门上太阳升",
+        "comment": "37",
+        "price": 100,
+        "title": "天安门广场"
+      },
+      {
+        "id": "0004",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1501/40/40b2b6c951b28fdd.water.jpg_140x140_1c863e5c.jpg",
+        "desc": "中国的荣耀，阳光下的晶莹水滴",
+        "comment": "37",
+        "price": 100,
+        "title": "水立方"
+      },
+      {
+        "id": "0005",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/201308/23/b283071686e64dfec8d65eac.jpg_140x140_8c5a7c49.jpg",
+        "desc": "各种亚热带植物掩映其间仿佛置身热带雨林",
+        "comment": "37",
+        "price": 100,
+        "title": "温都水城养生馆"
+      }
+    ],
+    "weekendList": [
+      {
+        "id": "0001",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1510/c1/afe3ab32b3bc23.jpg_r_640x214_beb61760.jpg",
+        "title": "青山秀水，精致暖汤",
+        "desc": "天然高品质温泉，这是冬天秀美容颜首选之地，让你疲惫的身影在这里消失的无影无踪"
+      },
+      {
+        "id": "0002",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1505/a3/9c9d78e925e8bc.jpg_r_640x214_74656d68.jpg",
+        "title": "泡汤好去处",
+        "desc": "泡在氤氲的温泉中，聆听冬天脚步的声音"
+      },
+      {
+        "id": "0003",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1505/9f/7d45cc38259e0.jpg_r_640x214_156f4299.jpg",
+        "title": "承载杭城的历史之地",
+        "desc": "饱经沧桑的地方诉述着这座城的段段衷肠"
+      },
+      {
+        "id": "0004",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1509/fb/c45a951a9b4305.jpg_r_640x214_26fcfd26.jpg",
+        "title": "温州动人秋色",
+        "desc": "细数温州那些美到陶醉的赏秋地"
+      },
+      {
+        "id": "0005",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1811/52/b6776b49d27025.jpg_r_640x214_35ae205c.jpg",
+        "title": "美丽普陀山",
+        "desc": "人间仙境杭州，佛教圣地普陀山等你来玩！在这里静心接收佛家的洗礼，用心感受佛文化"
+      }
+    ]
+  }
+}

@@ -3,7 +3,7 @@
     <div class="title">热门推荐</div>
     <ul>
       <li class="item border-bottom"
-          v-for="item of recommendList"
+          v-for="item of list"
           :key="item.id">
         <img
           :src="item.imgUrl"
@@ -21,27 +21,11 @@
 <script>
 export default {
   name: 'HomeRecommend',
+  props: {
+    list: Array
+  },
   data () {
     return {
-      recommendList: [{
-        id: '001',
-        imgUrl: 'http://img1.qunarzz.com/sight/p0/1603/87/87146cf32fa8635e90.water.png_200x200_5a9bb741.png',
-        title: '临安湍口众安氡温泉',
-        desc: '冬日网红温泉，你值得拥有'
-
-      }, {
-        id: '002',
-        imgUrl: 'http://img1.qunarzz.com/sight/p0/1603/87/87146cf32fa8635e90.water.png_200x200_5a9bb741.png',
-        title: '临安湍口众安氡温泉',
-        desc: '冬日网红温泉，你值得拥有'
-
-      }, {
-        id: '003',
-        imgUrl: 'http://img1.qunarzz.com/sight/p0/1603/87/87146cf32fa8635e90.water.png_200x200_5a9bb741.png',
-        title: '临安湍口众安氡温泉',
-        desc: '冬日网红温泉，你值得拥有'
-
-      }]
     }
   }
 }
@@ -54,7 +38,6 @@ export default {
     line-height: .8rem
     background: #eee
     text-indent: .2rem
-
   .item
     overflow: hidden
     display: flex
